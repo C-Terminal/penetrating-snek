@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/scapy_tools.iml" filepath="$PROJECT_DIR$/.idea/scapy_tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/penetrating_snek.iml" filepath="$PROJECT_DIR$/.idea/penetrating_snek.iml" />
     </modules>
   </component>
 </project>
